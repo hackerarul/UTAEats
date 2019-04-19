@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464755111008",
+    "firebase_url": "https://utaeats.firebaseio.com",
+    "project_id": "utaeats",
+    "storage_bucket": "utaeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464755111008:android:34389cdd021844de",
+        "android_client_info": {
+          "package_name": "com.example.utaeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464755111008-pptidi19f5ef4htb5p1lpkusiljn41eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.utaeats",
+            "certificate_hash": "8a3ef9619ff07a831df418b39159451c3d155e8e"
+          }
+        },
+        {
+          "client_id": "464755111008-5jdfc73aj2ptg74f2rfj8csrtglgi8b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZIlhhZ6PWqQnp14eLCXYX1pGqOTBcJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464755111008-5jdfc73aj2ptg74f2rfj8csrtglgi8b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
